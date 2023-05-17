@@ -1,7 +1,7 @@
 # Register the submod
 init -990 python:
     store.mas_submod_utils.Submod(
-        author="Mike / Autumn",
+        author="Mike",
         name="Fictional Others & Fictional Crushes",
         description="A Submod which allows you to open up to Monika about your fictional crushes!",
         version="1.0.0"
