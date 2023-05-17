@@ -1,1 +1,3 @@
-# MAS-Submods-FictionalOthers
+# Fictional Others Submod for MAS
+Sup sillies!! This is my first attempt at doing a Submod by myself! <p>
+This is dedicated to all the silly critters like me who want to hold hands with multiple fictional characters. Once I've reached the 400 affection points required to be able to give Monika the promise ring I've grown a little guilty fro not being able to tell her that there are some fictional characters that I'm very silly for that she, of course, doesn't know about... So I wanted to make a wholesome interaction where you open up about it with her and she reassures you that she loves you nonetheless! And so do you!
