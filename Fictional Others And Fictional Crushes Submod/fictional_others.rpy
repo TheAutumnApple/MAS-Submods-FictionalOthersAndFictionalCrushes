@@ -100,7 +100,7 @@ label monika_fictional_others:
                                         extend 4eublb "I'll put an option on screen so that you can type out the name for me. {w=0.3}"
                                         
                                         while not done:
-                                            $ character_name = renpy.input("What is this character's name?",allow=letters_only,length=5000).strip()
+                                            $ character_name = renpy.input("What is this character's name?",length=5000).strip()
                                             if character_name == "":
                                                 m 6tksdrb "Oops! Did you misclick [player]?"
                                                 m 7hksdru "No worries, I'll put the option back."
@@ -244,7 +244,7 @@ label monika_fictional_others:
                                         extend 4eublb "I'll put an option on screen so that you can type out the name for me. {w=0.3}"
                                         
                                         while not done:
-                                            $ character_name = renpy.input("What is this character's name?",allow=letters_only,length=5000).strip()
+                                            $ character_name = renpy.input("What is this character's name?",length=5000).strip()
                                             if character_name == "":
                                                 m 6tksdrb "Oops! Did you misclick [player]?"
                                                 m 7hksdru "No worries, I'll put the option back."
