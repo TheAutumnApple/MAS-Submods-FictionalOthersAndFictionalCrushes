@@ -4,7 +4,7 @@ init -990 python:
         author="Mike",
         name="Fictional Others And Fictional Crushes",
         description="A Submod which allows you to open up to Monika about your fictional crushes!",
-        version="1.3.0"
+        version="1.4.0"
     )
 
 # Register the updater
@@ -14,6 +14,8 @@ init -989 python:
             submod="Fictional Others And Fictional Crushes",
             user_name="TheAutumnApple",
             repository_name="MAS-Submods-FictionalOthersAndFictionalCrushes"
+            update_page_url="https://github.com/TheAutumnApple/MAS-Submods-FictionalOthersAndFictionalCrushes/releases"
+            latest_version="1.4.0"
             update_dir=""
         )
 
