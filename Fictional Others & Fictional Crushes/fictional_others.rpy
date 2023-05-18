@@ -4,14 +4,14 @@ init -990 python:
         author="Mike",
         name="Fictional Others And Fictional Crushes",
         description="A Submod which allows you to open up to Monika about your fictional crushes!",
-        version="1.1.0"
+        version="1.2.0"
     )
 
 # Register the updater
 init -989 python:
     if store.mas_submod_utils.isSubmodInstalled("Submod Updater Plugin"):
         store.sup_utils.SubmodUpdater(
-            submod="Fictional Others And Fictional Crushes",
+            submod="fictional_others",
             user_name="TheAutumnApple",
             repository_name="MAS-Submods-FictionalOthersAndFictionalCrushes"
         )
