@@ -9,6 +9,7 @@ The interaction is situated in the ***"Us..."*** section in the *"Hey, Monika...
 The rest will be left for the player to continue
       
 ## Updates
-This Submod is compatible with the MAS [Submod Updater Plugin](https://github.com/Booplicate/MAS-Submods-SubmodUpdaterPlugin)!! <p>
+This Submod should be compatible with the MAS [Submod Updater Plugin](https://github.com/Booplicate/MAS-Submods-SubmodUpdaterPlugin), however I'm having some problems with coding so I suggest the manual install for now in case the Submod Updater Plugin gives you an error while trying to update... <p>
+I'm so sorry I'm doing my best at fixing this <p>
 I look forward to adding some more stuff and options and polish everything a little!
       
